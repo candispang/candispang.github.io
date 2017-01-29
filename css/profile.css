@@ -1,0 +1,14 @@
+.profile-pic {
+	max-width: 65%
+}
+.card{
+	border:solid #cccccc 1px;
+	border-radius:4px;
+	padding:5px;
+	margin-bottom: 10px;
+	box-shadow: 5px 3px 4px #8acdf7;
+}
+
+.card-title-1 {
+	font-style: italic;
+}
